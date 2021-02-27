@@ -32,7 +32,7 @@ The challenges are:
 > Implement the classical control flow and optimization portion of the VQE to find the ground state energy of a given Hamiltonian.
 2. D200: Ansatz Artistry
 > Design an ansatz for a class of Hamiltonians whose n-qubit eigenstates must have the form:
-> ![equation](http://www.sciweavers.org/tex2img.php?eq=%7C%5Cpsi%28%5Calpha%29%5Crangle%3D%5Calpha_%7B0%7D%7C10%20%5Ccdots%200%5Crangle%2B%5Calpha_%7B1%7D%7C010%20%5Ccdots%200%5Crangle%2B%5Ccdots%2B%5Calpha_%7Bn-2%7D%7C0%20%5Ccdots%20010%5Crangle%2B%5Calpha_%7Bn-1%7D%7C0%20%5Ccdots%2001%5Crangle&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
+> ![equation](http://www.sciweavers.org/tex2img.php?eq=%7C%5Cpsi%28%5Calpha%29%5Crangle%3D%5Calpha_%7B0%7D%7C10%20%5Ccdots%200%5Crangle%2B%5Calpha_%7B1%7D%7C010%20%5Ccdots%200%5Crangle%2B%5Ccdots%2B%5Calpha_%7Bn-2%7D%7C0%20%5Ccdots%20010%5Crangle%2B%5Calpha_%7Bn-1%7D%7C0%20%5Ccdots%2001%5Crangle&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) .
 3. D500: Moving On Up
 > Implement a variational method that will find the ground state, as well as the first two excited states of the provided Hamiltonian.
 > Helpful paper: [Variational Quantum Computation of Excited States](https://arxiv.org/abs/1805.08138)
