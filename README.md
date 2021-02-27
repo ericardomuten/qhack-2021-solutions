@@ -1,7 +1,14 @@
-# Qhack2021 Solutions
+# Qhack 2021 Solutions
 This repo contains my team (Entangled_Nets) submission for the QML Challenges in [QHack 2021](https://github.com/XanaduAI/QHack), a quantum machine learning hackathon. We achieved perfect score (2500).
 
 The challenges are:
+## A: Simple Circuits
+1. A20: Measurement
+> Calculate the probability of a rotated qubit is in the ground state.
+2. A30: Expectation Values
+> Evaluate an expectation value for a measurement of a rotated qubit.
+3. A50: Entanglement
+> Calculate a tensor-product observable for an entangled state. 
 
 ## B: Quantum Gradients
 1. B100: Exploring Quantum Gradients
